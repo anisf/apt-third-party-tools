@@ -1,0 +1,7 @@
+Origin: Vendors
+Label: Tools Github
+Suite: stable
+Codename: bookworm
+Architectures: amd64
+Components: main
+Description: Debian x64 github repository
