@@ -1,0 +1,20 @@
+Origin: Vendors
+Label: Tools Github
+Suite: stable
+Codename: bookworm
+Date: Tue, 31 Dec 2024 15:46:12 UTC
+Architectures: amd64
+Components: main
+Description: Debian x64 github repository
+MD5Sum:
+ fa47c2ead2d8f172bb420c3228df1c61 1387 main/binary-amd64/Packages
+ 08072e7744fa7515f6040d92ef8598c6 782 main/binary-amd64/Packages.gz
+ b02398e0589671c7069b24372350f1ac 130 main/binary-amd64/Release
+SHA1:
+ 88df8cdde2b97be09e48c7d46f5f986a83cf221c 1387 main/binary-amd64/Packages
+ 3b7e400379a9d1df46ba40c9c5613450ffc606f8 782 main/binary-amd64/Packages.gz
+ 32bfd8a3814523a35d9d50ee6610557e71b42a99 130 main/binary-amd64/Release
+SHA256:
+ 50df53c75d0be5cf0b1c9b9b2ff4f28d4f066b2e0b5ff572eba9fa9a68f34f6a 1387 main/binary-amd64/Packages
+ 656e21b38f6c8519b61b218e007a1e3dd19846736270660f1e199c3bdaa350a5 782 main/binary-amd64/Packages.gz
+ 34a57125c96d04771919bbb97caab1931a34e72be5f90e809fa4655b2ef493de 130 main/binary-amd64/Release
